@@ -207,24 +207,3 @@ class Binky
     }
 }
 
- 
-/*************************
-Requirements
- - PHP 5.1
- - simple + fast
- - make easy to produce html emails
-   - structure      | container, row, column
-   - links          | a.default
-   - paragraphs     | p.default
-   - buttons        | button
-   - spacers        | spacer
-   - preheader      | preheader
-   - inspired by inky 
-
-REFERENCES
-
- https://templates.mailchimp.com/getting-started/html-email-basics/
- https://www.emailonacid.com/blog/article/email-development/email-development-best-practices-2/
- https://beefree.io/editor/
-
-****/
